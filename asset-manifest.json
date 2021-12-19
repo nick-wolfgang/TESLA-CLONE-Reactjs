@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/css/main.c573b726.chunk.css",
+    "main.js": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/main.6552aa28.chunk.js",
+    "main.js.map": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/main.6552aa28.chunk.js.map",
+    "runtime-main.js": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/runtime-main.bbc64c3d.js",
+    "runtime-main.js.map": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/runtime-main.bbc64c3d.js.map",
+    "static/js/2.9711f504.chunk.js": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/2.9711f504.chunk.js",
+    "static/js/2.9711f504.chunk.js.map": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/2.9711f504.chunk.js.map",
+    "static/js/3.9e1606e7.chunk.js": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/3.9e1606e7.chunk.js",
+    "static/js/3.9e1606e7.chunk.js.map": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/3.9e1606e7.chunk.js.map",
+    "index.html": "/ReactJs-Tesla-Clone-styled-components-MUI-/index.html",
+    "static/css/main.c573b726.chunk.css.map": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/css/main.c573b726.chunk.css.map",
+    "static/js/2.9711f504.chunk.js.LICENSE.txt": "/ReactJs-Tesla-Clone-styled-components-MUI-/static/js/2.9711f504.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbc64c3d.js",
+    "static/js/2.9711f504.chunk.js",
+    "static/css/main.c573b726.chunk.css",
+    "static/js/main.6552aa28.chunk.js"
+  ]
+}
